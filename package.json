@@ -1,0 +1,11 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "Simple web server for Render deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
+
